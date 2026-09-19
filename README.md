@@ -46,13 +46,6 @@
 | [**ayfieExpress**](https://github.com/mortendj/ayfieExpress) | Python API library plus a configurable feeding and test tool for ayfie Inspector |
 | [**ayfie-reinstaller**](https://github.com/mortendj/ayfie-reinstaller) | Tool to install, manage, and switch between ayfie Inspector versions |
 
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mortendj&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortendj&layout=compact&hide_title=true" alt="Top languages" height="165">
-</p>
-
 ---
 
 <p align="center"><sub>Pato Branco, Paraná, Brazil · <a href="mailto:morten.dutra.johnsen@gmail.com">morten.dutra.johnsen@gmail.com</a></sub></p>
