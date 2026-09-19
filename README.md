@@ -40,9 +40,9 @@
 
 | Repo | What it is |
 |---|---|
-| [**generate-cv**](https://github.com/mortendj/generate-cv) | This CV itself — a Python-driven HTML/PDF generator with a bilingual public web build |
+| [**generate-cv**](https://github.com/mortendj/generate-cv) | The CV above — a Python-driven HTML/PDF generator with a bilingual public web build |
 | [**AyfieInspector**](https://github.com/mortendj/ayfieinspector) | PowerShell diagnostic tool for Ayfie on-prem deployments |
-| [**Winspect**](https://github.com/mortendj/winspect) | Newer inspector/troubleshooting tool suite, successor to AyfieInspector |
+| [**Winspect**](https://github.com/mortendj/winspect) | Product-independent server inspection engine that AyfieInspector calls into to help build its report |
 | [**ayfieExpress**](https://github.com/mortendj/ayfieExpress) | Python API library plus a configurable feeding and test tool for ayfie Inspector |
 | [**ayfie-reinstaller**](https://github.com/mortendj/ayfie-reinstaller) | Tool to install, manage, and switch between ayfie Inspector versions |
 
