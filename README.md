@@ -32,7 +32,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=claude&logoColor=white)
 
 ### Projects
 
