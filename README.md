@@ -42,7 +42,7 @@
 |---|---|
 | [**generate-cv**](https://github.com/mortendj/generate-cv) | The CV above — a Python-driven HTML/PDF generator with a bilingual public web build |
 | [**AyfieInspector**](https://github.com/mortendj/ayfieinspector) | PowerShell diagnostic tool for Ayfie on-prem deployments |
-| [**Winspect**](https://github.com/mortendj/winspect) | Product-independent server inspection engine that AyfieInspector calls into to help build its report |
+| [**Winspect**](https://github.com/mortendj/winspect) | Windows Server inspection tool that reports on a host's capacities, capabilities, and configuration — independent of whatever's installed on it |
 | [**ayfieExpress**](https://github.com/mortendj/ayfieExpress) | Python API library plus a configurable feeding and test tool for ayfie Inspector |
 | [**ayfie-reinstaller**](https://github.com/mortendj/ayfie-reinstaller) | Tool to install, manage, and switch between ayfie Inspector versions |
 
